@@ -1,0 +1,392 @@
+[
+ {
+  "Title": "Backend Developer",
+  "Salary": "Rp 6,4jt-9,6jt",
+  "Tags": [
+   "Penuh Waktu",
+   "5-10 tahun",
+   "Minimal Sarjana (S1)",
+   "Java",
+   "+5"
+  ],
+  "Company": "Booking To Go",
+  "Location": "Kalideres, Jakarta Barat, DKI Jakarta"
+ },
+ {
+  "Title": "Backend Developer",
+  "Salary": "Rp 2,7jt-5jt",
+  "Tags": [
+   "Remote/Dari rumah",
+   "Penuh Waktu",
+   "1-3 tahun",
+   "Minimal SMA/SMK",
+   "+10"
+  ],
+  "Company": "JOGJACAMP",
+  "Location": "Kemantren Umbulharjo, Yogyakarta, DI Yogyakarta"
+ },
+ {
+  "Title": "Backend Programmer",
+  "Salary": "",
+  "Tags": [
+   "Penuh Waktu",
+   "1-3 tahun",
+   "Minimal Diploma (D1 - D4)",
+   "Teamwork",
+   "+13"
+  ],
+  "Company": "Iweka Digital Solusi",
+  "Location": "Medan Petisah, Medan, Sumatera Utara"
+ },
+ {
+  "Title": "Backend Developer",
+  "Salary": "Rp 5jt-7jt",
+  "Tags": [
+   "Penuh Waktu",
+   "1-3 tahun",
+   "Minimal Sarjana (S1)",
+   "PostgreSQL",
+   "+10"
+  ],
+  "Company": "Ragdalion Technology",
+  "Location": "Cikarang Selatan, Kab. Bekasi, Jawa Barat"
+ },
+ {
+  "Title": "Backend Engineer",
+  "Salary": "Rp 6jt-14jt",
+  "Tags": [
+   "Kontrak",
+   "1-3 tahun",
+   "Minimal SMA/SMK",
+   "Kubernetes",
+   "+9"
+  ],
+  "Company": "Klikcair",
+  "Location": "Kebon Jeruk, Jakarta Barat, DKI Jakarta"
+ },
+ {
+  "Title": "Backend Developer",
+  "Salary": "Rp 8jt-15jt",
+  "Tags": [
+   "Penuh Waktu",
+   "1-3 tahun",
+   "Minimal Sarjana (S1)",
+   "PostgreSQL",
+   "+17"
+  ],
+  "Company": "PT Reka Multi Aptika",
+  "Location": "Senen, Jakarta Pusat, DKI Jakarta"
+ },
+ {
+  "Title": "Backend Developer",
+  "Salary": "",
+  "Tags": [
+   "Penuh Waktu",
+   "1-3 tahun",
+   "Minimal Diploma (D1 - D4)",
+   "Go / Golang",
+   "+3"
+  ],
+  "Company": "Delta HQ",
+  "Location": "Dukuh Pakis, Surabaya, Jawa Timur"
+ },
+ {
+  "Title": "Backend Freelance",
+  "Salary": "Rp 1jt-1,5jt",
+  "Tags": [
+   "Remote/Dari rumah",
+   "Freelance",
+   "Kurang dari setahun",
+   "Minimal Sarjana (S1)",
+   "+9"
+  ],
+  "Company": "Turnkey Group",
+  "Location": "Klojen, Malang, Jawa Timur"
+ },
+ {
+  "Title": "Backend Engineer",
+  "Salary": "",
+  "Tags": [
+   "Hybrid",
+   "Penuh Waktu",
+   "1-3 tahun",
+   "Minimal SMA/SMK",
+   "+4"
+  ],
+  "Company": "Nodewave Indonesia",
+  "Location": "Kebon Jeruk, Jakarta Barat, DKI Jakarta"
+ },
+ {
+  "Title": "Backend Developer",
+  "Salary": "Rp 5,5jt-7jt",
+  "Tags": [
+   "Penuh Waktu",
+   "Kurang dari setahun",
+   "Minimal Sarjana (S1)",
+   "MySQL",
+   "+5"
+  ],
+  "Company": "Nusantara Sakti Group",
+  "Location": "Grogol Petamburan, Jakarta Barat, DKI Jakarta"
+ },
+ {
+  "Title": "Backend Developer",
+  "Salary": "Rp 4jt-6jt",
+  "Tags": [
+   "Penuh Waktu",
+   "1-3 tahun",
+   "Minimal Sarjana (S1)",
+   "CI/CD",
+   "+6"
+  ],
+  "Company": "PT DIBUILTADI TEKNOLOGI KREATIF",
+  "Location": "Semarang Barat, Semarang, Jawa Tengah"
+ },
+ {
+  "Title": "backend developer",
+  "Salary": "Rp 7jt-7,5jt",
+  "Tags": [
+   "Kontrak",
+   "1-3 tahun",
+   "Minimal Sarjana (S1)",
+   "Java",
+   "+3"
+  ],
+  "Company": "PT. Permata Azzuri Sehat",
+  "Location": "Mampang Prapatan, Jakarta Selatan, DKI Jakarta"
+ },
+ {
+  "Title": "Backend Golang",
+  "Salary": "Rp 6jt-10jt",
+  "Tags": [
+   "Kontrak",
+   "1-3 tahun",
+   "Minimal Sarjana (S1)",
+   "RabbitMQ",
+   "+6"
+  ],
+  "Company": "PT Entrepreneur Trust Digital",
+  "Location": "Tanah Abang, Jakarta Pusat, DKI Jakarta"
+ },
+ {
+  "Title": "Backend Python",
+  "Salary": "Rp 7,2jt-11jt",
+  "Tags": [
+   "Kontrak",
+   "1-3 tahun",
+   "Minimal Diploma (D1 - D4)",
+   "REST API",
+   "+4"
+  ],
+  "Company": "PT Nusantara Sukses Teknologi (Nusatek.id)",
+  "Location": "Mampang Prapatan, Jakarta Selatan, DKI Jakarta"
+ },
+ {
+  "Title": "Backend Developer",
+  "Salary": "Rp 3,5jt-5jt",
+  "Tags": [
+   "Penuh Waktu",
+   "1-3 tahun",
+   "Minimal Sarjana (S1)",
+   "PHP",
+   "+6"
+  ],
+  "Company": "PT. Timedoor Indonesia",
+  "Location": "Denpasar Selatan, Denpasar, Bali"
+ },
+ {
+  "Title": "Backend Engineer",
+  "Salary": "Rp 75jt-100jt",
+  "Tags": [
+   "Penuh Waktu",
+   "5-10 tahun",
+   "Minimal Sarjana (S1)",
+   "Python",
+   "+7"
+  ],
+  "Company": "Talent Fit Indonesia",
+  "Location": "Tebet, Jakarta Selatan, DKI Jakarta"
+ },
+ {
+  "Title": "Backend Developer",
+  "Salary": "Rp 6jt-10jt",
+  "Tags": [
+   "Penuh Waktu",
+   "1-3 tahun",
+   "Minimal Sarjana (S1)",
+   "MySQL",
+   "+6"
+  ],
+  "Company": "PT VIN CIPTA TEKNOLOGI",
+  "Location": "Tangerang, Tangerang, Banten"
+ },
+ {
+  "Title": "Backend Developer",
+  "Salary": "",
+  "Tags": [
+   "Kontrak",
+   "5-10 tahun",
+   "Minimal Sarjana (S1)",
+   "Nfc Protocols",
+   "+13"
+  ],
+  "Company": "Fasttech.AI Pte. Ltd.",
+  "Location": "Kebayoran Baru, Jakarta Selatan, DKI Jakarta"
+ },
+ {
+  "Title": "Backend Programmer",
+  "Salary": "Rp 2jt-4jt",
+  "Tags": [
+   "Penuh Waktu",
+   "Kurang dari setahun",
+   "Minimal Sarjana (S1)",
+   "Node.js",
+   "+5"
+  ],
+  "Company": "PT. CUANIAGA INNOVATION TECHNOLOGY",
+  "Location": "Patikraja, Kab. Banyumas, Jawa Tengah"
+ },
+ {
+  "Title": "Backend Engineer",
+  "Salary": "Rp 5jt-10jt",
+  "Tags": [
+   "Penuh Waktu",
+   "3-5 tahun",
+   "Minimal Sarjana (S1)",
+   "Go / Golang",
+   "+4"
+  ],
+  "Company": "Emtrade",
+  "Location": "Serengan, Surakarta, Jawa Tengah"
+ },
+ {
+  "Title": "Programmer Backend",
+  "Salary": "Rp 6jt-7jt",
+  "Tags": [
+   "Penuh Waktu",
+   "3-5 tahun",
+   "Minimal Diploma (D1 - D4)",
+   "Programming Languages",
+   "+3"
+  ],
+  "Company": "Edifly Solusi Indonesia",
+  "Location": "Cilandak, Jakarta Selatan, DKI Jakarta"
+ },
+ {
+  "Title": "Backend Developer",
+  "Salary": "",
+  "Tags": [
+   "Remote/Dari rumah",
+   "Kontrak",
+   "3-5 tahun",
+   "Minimal Sarjana (S1)",
+   "+14"
+  ],
+  "Company": "Fasttech.AI Pte. Ltd.",
+  "Location": "Tanah Abang, Jakarta Pusat, DKI Jakarta"
+ },
+ {
+  "Title": "Backend Golang",
+  "Salary": "Rp 10jt-12jt",
+  "Tags": [
+   "Kontrak",
+   "5-10 tahun",
+   "Minimal Sarjana (S1)",
+   "SQL",
+   "+7"
+  ],
+  "Company": "Bekerdja.id",
+  "Location": "Lengkong, Bandung, Jawa Barat"
+ },
+ {
+  "Title": "Backend Developer",
+  "Salary": "Rp 8jt-12jt",
+  "Tags": [
+   "Kontrak",
+   "3-5 tahun",
+   "Minimal Diploma (D1 - D4)",
+   "Docker",
+   "+6"
+  ],
+  "Company": "Proxima Konsultan Indonesia",
+  "Location": "Tebet, Jakarta Selatan, DKI Jakarta"
+ },
+ {
+  "Title": "Backend Developer",
+  "Salary": "Rp 2jt-2,7jt",
+  "Tags": [
+   "Penuh Waktu",
+   "Minimal Sarjana (S1)",
+   "PHP",
+   "Laravel",
+   "+10"
+  ],
+  "Company": "Universitas Ngudi Waluyo",
+  "Location": "Ungaran Timur, Kab. Semarang, Jawa Tengah"
+ },
+ {
+  "Title": "Backend Developer",
+  "Salary": "Rp 6jt-7jt",
+  "Tags": [
+   "Penuh Waktu",
+   "1-3 tahun",
+   "Minimal Sarjana (S1)",
+   "MySQL",
+   "+3"
+  ],
+  "Company": "PT Dian Bayu Tribuana",
+  "Location": "Gunung Putri, Kab. Bogor, Jawa Barat"
+ },
+ {
+  "Title": "Backend Developer",
+  "Salary": "Rp 2jt-5jt",
+  "Tags": [
+   "Penuh Waktu",
+   "Kurang dari setahun",
+   "Minimal Diploma (D1 - D4)",
+   "Go / Golang",
+   "+4"
+  ],
+  "Company": "Komerce",
+  "Location": "Karangmoncol, Kab. Purbalingga, Jawa Tengah"
+ },
+ {
+  "Title": "Backend Developer",
+  "Salary": "Rp 5jt-8,5jt",
+  "Tags": [
+   "Penuh Waktu",
+   "Minimal SMA/SMK",
+   "Python",
+   "GIT",
+   "+7"
+  ],
+  "Company": "Pt. Quantus Telematika Indonesia",
+  "Location": "Bandung Wetan, Bandung, Jawa Barat"
+ },
+ {
+  "Title": "Backend Developer",
+  "Salary": "Rp 10jt-15jt",
+  "Tags": [
+   "Penuh Waktu",
+   "3-5 tahun",
+   "Minimal Sarjana (S1)",
+   "Teamwork",
+   "+3"
+  ],
+  "Company": "Avalon Star",
+  "Location": "Menteng, Jakarta Pusat, DKI Jakarta"
+ },
+ {
+  "Title": "Backend Engineer",
+  "Salary": "Rp 5,5jt-6jt",
+  "Tags": [
+   "Penuh Waktu",
+   "1-3 tahun",
+   "Minimal Sarjana (S1)",
+   "MySQL",
+   "+5"
+  ],
+  "Company": "PT Datacakra Solusi Jaganata",
+  "Location": "Pasar Minggu, Jakarta Selatan, DKI Jakarta"
+ }
+]
